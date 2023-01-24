@@ -1,0 +1,28 @@
+.global-wrapper {
+    max-width: 960px;
+    background-color: #ddd;
+    margin: auto;
+}
+
+/* typography */
+
+h1 {
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.cupcake-card h2 {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.flexbox-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cupcake-card {
+    background-color: #fff;
+    padding: 10px 0 10px 0;
+    border: 1px solid #000;
+}
